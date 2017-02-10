@@ -1,4 +1,4 @@
 # rapid-framework
 
-code gnerator for java platform.
+Good code generator for java world.
 
